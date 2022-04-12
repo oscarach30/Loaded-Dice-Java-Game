@@ -1,10 +1,8 @@
 import java.util.*;
 
 /*	Oscar Chavez
- * 	Math 130
- * 	Lab 4- Loaded Die Game
+ * 	Loaded Die Game
  * 	March 22, 2022
- * 	Professor Juden
  */
 
 public class Lab4_Chavez 
